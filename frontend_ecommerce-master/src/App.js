@@ -58,7 +58,7 @@ render(){
            chocklate={chocklate}
            handleAddtocart={this.handleAddtocart}
         />
-         <footer style={{background: "black", color: "antiquewhite"}}>© 2023, Praveen's Cocktails Powered by Praveen Refund policy Privacy policyTerms of service</footer>
+         <footer style={{background: "black", color: "antiquewhite"}}>© 2023, Divya's Cocktails  Powered by Divya Refund policy Privacy policyTerms of service</footer>
       </main>
      
     </div>
